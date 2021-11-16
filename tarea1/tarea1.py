@@ -3,24 +3,13 @@ from validar import validarRut
 menupersona = int(input("Bienvenido al menu: \n 1- Ingrese sus datos \n 2- Imprimir los datos ingresados \n 0- Salir del programa \n ingrese su opcion :"))
 
 '''
-Actualización
-1. - Utilizar variables y no listas para almacenar los datos 
-2. - Contraseña de ingreso para mostrar datos (solo para mostrar datos)
-3. - No permitir el registro de un usuario si el nombre es vacío y si el rut es invalido
+Actualizacion: Tarea 2 miercoles 17-11-2021
+1. - Utilizar variables y no listas para almacenar los datos.
+2. - Contraseña de ingreso para mostrar datos (solo para mostrar datos). Utilizando funcion en el archivo validar.py
+3. - No permitir el registro de un usuario si el nombre es vacio y si el rut es invalido.
 4. - Validar que el nombre, rut y nacionalidad sean string y la edad un entero.
-
-And
-v*v=V
-v*f=F
-f*v=F
-f*f=F
-
-Or
-v*v=V
-v*f=V
-f*v=V
-f*f=F
-
+5. - Transformar el nombre y la nacionalidad a mayusculas cuando se imprima.
+6. - Utilizar la funcion main para iniciar el programa.
 '''
 
 
