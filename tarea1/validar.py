@@ -18,3 +18,7 @@ def validarRut(rut):
 		return True
 	else:
 		return False
+
+def contraseña(contra):
+    contraseña= contra
+    return contraseña
